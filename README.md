@@ -1,5 +1,8 @@
 # BE-bootcamp-2nd-assignment
 
+## API 명세서
+[2주차 과제(API명세서).pdf](https://github.com/user-attachments/files/16308799/2.API.pdf)
+
 
 ## HTTP 통신
 HTTP(하이퍼텍스트 전송 프로토콜, HyperText Transfer Protocol)는 웹 브라우저와 웹 서버 간에 데이터를 주고받기 위한 프로토콜입니다. 인터넷 상에서 웹 페이지를 주고받는 가장 기본적인 방식으로, 텍스트, 이미지, 동영상 등의 다양한 데이터 형식을 전송할 수 있습니다.
